@@ -1,3 +1,4 @@
+import React from "react";
 import Box from "./component/box";
 import Main from "./component/main";
 import Navbar from "./component/Navbar";
