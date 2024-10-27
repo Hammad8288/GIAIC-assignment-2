@@ -1,5 +1,4 @@
-import React from "react";
-export default function () {
+export default function Main() {
   return (
     <div>
       <div className="main bg-[#252B42] w-[1046px] h-[600px] top-[104px] left-[197px] py-[80px] gap-80 flex flex-col text-center items-center">

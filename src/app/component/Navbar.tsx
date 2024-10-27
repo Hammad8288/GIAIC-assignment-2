@@ -1,5 +1,4 @@
-import React from "react";
-export default function () {
+export default function Navbar() {
   return (
     <div className="bg-[#252B42]">
       <div className="container w-[1322px] h-[91px] flex justify-between items-center">

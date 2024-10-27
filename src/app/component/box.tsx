@@ -1,5 +1,4 @@
-import React from "react";
-export default function () {
+export default function Box() {
   return (
     <div className=" h-[400px]">
       <div className="row w-[1046px] h-[292px] gap-[30px] flex ml-[200px]">
