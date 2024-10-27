@@ -17,7 +17,7 @@ export default function Main() {
             small scale just do not act that way.
           </h4>
           {/* both buttons */}
-          <div className="w-[365px] h-[52px] flex space-x-4 mt-[40px] ml-[50px]  ">
+          <div className="w-[365px] h-[52px] flex space-x-4 mt-[40px] ml-[85px]  ">
             <button className="bg-[#35A6F0] text-white font-[700px] w-[193px] h-[52px] px-6 py-2 rounded">
               <span>Get Quote Now</span>
             </button>
